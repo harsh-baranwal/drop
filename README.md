@@ -1,3 +1,3 @@
 # Drop
 
-A  modern Social media app.
+A  modern Social media app with many features.
